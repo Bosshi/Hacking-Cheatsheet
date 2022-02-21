@@ -4,7 +4,7 @@ This will be used for my journey to becoming an Ethical Hacker. Everything that 
 ## Table of contents
 
 - [Web application hacking](web-app/README.md)
-  - [Enumeration](web-app/enumeration/README.md) **(FIRST PHASE)**
+  - [Enumeration](web-app/enumeration/README.md)
     - [Networking scanning](web-app/enumeration/network-scanning/README.md)
       - [Nmap](web-app/enumeration/network-scanning/nmap/README.md)
     - [Directory scanning](web-app/enumeration/directory-scanning/README.md)
